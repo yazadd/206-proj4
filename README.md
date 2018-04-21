@@ -22,3 +22,5 @@ To run the program, open up a terminal window and navigate to the directory whic
 - `ratings categories pie` shows a pie chart of the average ratings (Yelp + Google only) of the restaurants in each of the top 10 categories in a city.
 - `scatter restaurants ratings` shows a scatter graph of the average ratings (Yelp, Google, and Yelp + Google) of all of the restuarants in a category of your choice in a city.
 - `proportions categories pie` shows a pie chart of the number of restaurants in each of the top 10 categories in a city.
+
+Entering `help` will bring up help text similar to that above, and entering `exit` will terminate the program.
